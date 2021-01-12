@@ -1,1 +1,2 @@
-# Kelompok-7_Sistem-Keamanan-Cerdas
+# Notes
+File yang di upload ke github ini merupakan gabungan dari seluruh kodingan yang telah dikerjakan oleh kelompok 7, dan yang mengirimkan hanya saya saja, dikarenakan pengerjaan kodingan menggunakan jupyter notebook sehingga kalau mau diedit menggunakan cara online melalui githubnya langsung agak ribet, sehingga perorang mengerjakan bagiannya sendiri-sendiri terlebih dahulu, lalu digabungkan di dalam satu komputer saja.
